@@ -1,7 +1,5 @@
 ## Mysystem.Org Git Repository
 
-Version: 1
-
 If you want to join the mysystem team or have something to say - <a href="https://github.com/ssarioglu">write to me</a>.
 
 I have shared goodies for IT Guys (System Admins - DevOps - SecOps - Cloudiers)
