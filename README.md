@@ -7,7 +7,7 @@ If you want to join the mysystem team or have something to say - <a href="https:
 I have shared goodies for IT Guys (System Admins - DevOps - SecOps - Cloudiers)
 
 <a href="https://www.paypal.com/" title="Support project"><img src="https://img.shields.io/badge/Support%20project-paypal-brightgreen.svg"></a>
-<a href="https://mysystem.org" title="Mysystem.org"><img src="https://img.shields.io/badge/C%23%20InstaBot-v1.0-blue.svg"></a>
+<a href="https://mysystem.org" title="Mysystem.org"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=mysystem.org"></a>
 
 ## Requirements
 `Python2.7` minimum
