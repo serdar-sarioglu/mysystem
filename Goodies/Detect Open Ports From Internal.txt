@@ -1,3 +1,5 @@
+Sample: You are in an internal network and you want to understand which ports are open from inside to outside.
+
 Try to go to --> http://portquiz.net:4444/
 4444 is your test port
 
