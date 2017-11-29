@@ -1,4 +1,18 @@
-Just try to get 
-http://portquiz.net:4444/
-
+Try to go to --> http://portquiz.net:4444/
 4444 is your test port
+
+
+To Detect all open ports: 
+
+1.) Create a bash file (example open_ports.sh)
+  
+#!/bin/bash
+port=1
+while [ $port -le 65535 ]
+do
+nc -z -v  portquiz.net $port
+((port++))
+done
+
+2.) chmod 777 open_ports.sh
+3.) run --> ./open_ports.sh
