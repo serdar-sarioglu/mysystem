@@ -1,4 +1,4 @@
-Nmap Usage Samples:
+﻿Nmap Usage Samples
 
 Bruteforce to FTP with Nmap Script
 nmap --script ftp-brute -p 21 --script-args userdb=/root/nmap/usernames.txt,passdb=/root/nmap/password.txt targethost
