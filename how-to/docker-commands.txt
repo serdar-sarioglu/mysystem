@@ -1,0 +1,4 @@
+Login a custom registry:
+
+docker login registry.mysystem.org
+
