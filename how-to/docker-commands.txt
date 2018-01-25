@@ -1,4 +1,11 @@
 Login a custom registry:
-
 docker login registry.mysystem.org
 
+Make image local
+docker save -o <save image to path> <image name>
+
+Export local image
+docker load -i <path to image tar file>
+
+List images
+docker images --all
