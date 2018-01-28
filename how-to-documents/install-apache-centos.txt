@@ -1,0 +1,11 @@
+1.) yum install -y httpd mariadb-server mariadb php php-mysql php-soap wget swaks ftp
+
+
+2.) vi /etc/sysconfig/selinux --> disable selinux
+
+3.) mysql_secure_installation
+
+
+4.) systemctl start httpd.service mariadb 
+
+5.) systemctl enable httpd.service mariadb.service 
