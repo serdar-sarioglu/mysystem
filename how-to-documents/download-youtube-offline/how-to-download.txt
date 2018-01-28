@@ -1,0 +1,8 @@
+First use youtube-dl.exe, a list download sample first 100 
+
+youtube-dl.exe --playlist-start 1 --playlist-end 100 https://www.youtube.com/playlist?list=PL2056AC052D3F4F40
+
+To Convert MP3
+
+for /r %%G in (*) do ffmpeg.exe -i "%%G"  -ab 128k -ar 44100 "%%G".mp3
+
