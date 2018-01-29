@@ -10,21 +10,20 @@ This Document has been written By Serdar Sarioglu - 2016
 >docker login registry.mysystem.org
 
 #### List Images:
-docker images --all
+>docker images --all
 
 #### List Containers:
-docker ps
+>docker ps
 
 #### Remove Image:
-docker rmi image_name
+>docker rmi image_name
 
 #### Export Image:
-docker save -o save-image-to-path image-name
-
-docker save -o /home/mysystem/ftp-server-1 ftp-server-1
+>docker save -o save-image-to-path image-name
+>docker save -o /home/mysystem/ftp-server-1 ftp-server-1
 
 #### Import Image:
-docker load -i path-to-image-tar-file
+>docker load -i path-to-image-tar-file
 
 #### Bonus (Copy file with SCP):
-scp serdar@10.10.10.100:/home/mysystem/ftp-server-1 /root/images
+>scp serdar@10.10.10.100:/home/mysystem/ftp-server-1 /root/images
