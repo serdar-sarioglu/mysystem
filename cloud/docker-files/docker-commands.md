@@ -7,7 +7,7 @@ This Document has been written By Serdar Sarioglu - 2016
 
 
 #### Login a custom registry:
-docker login registry.mysystem.org
+>docker login registry.mysystem.org
 
 #### List Images:
 docker images --all
