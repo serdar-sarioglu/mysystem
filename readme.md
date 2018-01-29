@@ -13,7 +13,7 @@ No requirements yet! Some scripts may need `Python`
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)]()
 
 ##
-<a href="https://mysystem.org" title="Mysystem.org"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=Visit%20mysystem.org"></a>
-<a href="https://www.paypal.me/ssarioglu" title="Support project"><img src="https://img.shields.io/badge/Donate%20me-paypal-brightgreen.svg"></a>
-<a href="mailto:serdar.sarioglu@mysystem.org" title="Email"><img src="https://img.shields.io/badge/email-me-red.svg"></a>
+<a href="https://mysystem.org" title="Mysystem.org"><img src=""https://img.shields.io/badge/Visit My-mysite-green.svg"></a>
+<a href="https://www.paypal.me/ssarioglu" title="Support project"><img src=""https://img.shields.io/badge/Donate-me-red.svg"></a>
+<a href="mailto:serdar.sarioglu@mysystem.org" title="Email"><img src="https://img.shields.io/badge/Email-me-blue.svg"></a>
 
