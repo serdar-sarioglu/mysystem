@@ -5,8 +5,8 @@ Welcome IT Guys (System Admins - DevOps - SecOps - Cloudiers) Information Techno
 My name is Serdar Sarioglu, and I am a Senior IT Architect & Security Manager with more than ten years’ making Infrastructures Efficient and Secure! I have completed high and mid-level projects (mostly ERP and now Cloud) on time and improved IT operations! After entirely technical years I am now able to understand IT requirements, make project plans and reduce costs!
 
 
-## Requirements
-No requirements yet! Some scripts may need `Python`
+## Shares
+Documents are mostly written by me, feel free to use them `Python`
 
 #
 <a href="https://mysystem.org" title="Mysystem.org"><img src="https://img.shields.io/badge/Visit-mysite-green.svg"></a>
