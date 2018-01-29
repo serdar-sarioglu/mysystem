@@ -8,7 +8,7 @@ My name is Serdar Sarioglu, and I am a Senior IT Architect & Security Manager wi
 ## Shares
 Documents are mostly written by me, feel free to use them
 
-KeyWords: `DevOps` `DevOps` `DevOps` `DevOps` `DevOps`
+KeyWords: `DevOps` `SecOps` `AWS` `Azure` `Cloud` `Micro Services` `Jenkins` `Docker`
 
 #
 <a href="https://mysystem.org" title="Mysystem.org"><img src="https://img.shields.io/badge/Visit-mysite-green.svg"></a>
