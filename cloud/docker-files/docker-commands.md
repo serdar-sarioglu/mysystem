@@ -20,6 +20,7 @@ This Document has been written By Serdar Sarioglu - 2016
 
 #### Export Image:
 >docker save -o save-image-to-path image-name
+
 >docker save -o /home/mysystem/ftp-server-1 ftp-server-1
 
 #### Import Image:
