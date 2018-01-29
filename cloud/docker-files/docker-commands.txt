@@ -4,7 +4,7 @@
 Login a custom registry:
 docker login registry.mysystem.org
 
-List images
+**List images**
 docker images --all
 
 Make image local
