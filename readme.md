@@ -10,3 +10,5 @@ Welcome IT Guys (System Admins - DevOps - SecOps - Cloudiers)
 
 ## Requirements
 No requirements yet! Some scripts may need `Python`
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)]()
