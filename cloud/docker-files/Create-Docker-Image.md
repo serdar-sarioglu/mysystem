@@ -10,13 +10,14 @@ You will need a base image from dockerhub https://hub.docker.com and use sample 
 >CMD ["echo", "hello world!"]
 
 #### Run a script in Docker Image
-Firsty create a bash script like;
+Firsty create a bash script  run.sh like;
 
 >#! /bin/sh
 
 >echo hello world!
 
-On Docker file
+
+On Docker file;
 
 >From ubuntu
 
