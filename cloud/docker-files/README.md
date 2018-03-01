@@ -9,6 +9,12 @@
 #### List Containers:
 >docker ps
 
+#### Run a Docker Image:
+>docker run --name test container_id
+
+#### Remove Docker Container
+>docker rm test
+
 #### Remove Image:
 >docker rmi image_name
 
