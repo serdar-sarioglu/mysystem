@@ -1,5 +1,8 @@
 ## Docker Commands
 
+#### Install Docker to Ubuntu:
+apt install docker.io -y
+
 #### Login a custom registry:
 >docker login registry.mysystem.org
 
