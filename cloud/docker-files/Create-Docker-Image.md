@@ -9,6 +9,8 @@ You will need a base image from dockerhub https://hub.docker.com and use sample 
 
 >CMD ["echo", "hello world!"]
 
+#### How to build the image:
+>docker build my-docker
 
 ## 
 
