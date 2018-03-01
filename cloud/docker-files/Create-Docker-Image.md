@@ -12,6 +12,8 @@ You will need a base image from dockerhub https://hub.docker.com and use sample 
 #### How to build the image:
 >docker build my-docker
 
+#### How to run the image:
+>docker run --name test docker_image_id
 ## 
 
 This Document has been written By Serdar Sarioglu - 2016
