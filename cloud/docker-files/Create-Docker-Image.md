@@ -10,7 +10,7 @@ You will need a base image from dockerhub https://hub.docker.com and use sample 
 >CMD ["echo", "hello world!"]
 
 #### Run a script in Docker Image
-Firsty create a bash script  run.sh like;
+Firsty create a bash script run.sh like (don't forget chmod 777);
 
 >#! /bin/sh
 
