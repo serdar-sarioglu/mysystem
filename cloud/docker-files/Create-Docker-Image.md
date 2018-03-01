@@ -1,33 +1,9 @@
-## Docker Commands
+## Create Docker Image
 
-#### Login a custom registry:
+First create a file:
 >docker login registry.mysystem.org
 
-#### List Images:
->docker images --all
 
-#### List Containers:
->docker ps
-
-#### Run a Docker Image:
->docker run --name test container_id
-
-#### Remove Docker Container
->docker rm test
-
-#### Remove Image:
->docker rmi image_name
-
-#### Export Image:
->docker save -o save-image-to-path image-name
-
->docker save -o /home/mysystem/ftp-server-1 ftp-server-1
-
-#### Import Image:
->docker load -i path-to-image-tar-file
-
-#### Bonus (Copy file with SCP):
->scp serdar@10.10.10.100:/home/mysystem/ftp-server-1 /root/images
 
 ## 
 
