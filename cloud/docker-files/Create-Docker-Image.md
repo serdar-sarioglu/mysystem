@@ -17,7 +17,7 @@ You will need a base image from dockerhub https://hub.docker.com and use sample 
 
 >CMD ["echo", "Requiremets installed suceesfully"]
 
->RUN systemctl start apache2.service mariadb.service
+>RUN systemctl start apache2.service mysql.service
 
 >CMD ["echo", "Services are up and running!"]
 
