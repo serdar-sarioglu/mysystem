@@ -9,19 +9,11 @@ You will need a base image from dockerhub https://hub.docker.com and use sample 
 
 >CMD ["echo", "hello world!"]
 
-#### Run a script in Docker Image
-Firsty create a bash script run.sh like (don't forget chmod 777);
-
->#! /bin/sh
-
->echo hello world!
-
-
 On Docker file (my-docker);
 
 >From ubuntu
 
->COPY run.sh /run.sh
+>RUN apt-get update && apt-get install -y
 
 
 #### How to build the image:
