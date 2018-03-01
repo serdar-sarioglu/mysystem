@@ -13,7 +13,7 @@ You will need a base image from dockerhub https://hub.docker.com and use sample 
 
 >CMD ["echo", "Staring Installation!"]
 
->RUN apt-get update && apt-get install -y apache2 php libapache2-mod-php mariadb-server mariadb-client libapache2-mod-php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-mcrypt php-ldap php-zip php-curl
+>RUN apt-get update && apt-get install -y apache2 php libapache2-mod-php mariadb-server mariadb-client php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-mcrypt php-ldap php-zip php-curl
 
 >CMD ["echo", "Requiremets installed suceesfully"]
 
