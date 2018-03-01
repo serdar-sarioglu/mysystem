@@ -19,7 +19,7 @@ You will need a base image from dockerhub https://hub.docker.com and use sample 
 
 >CMD ["echo", "Requiremets installed suceesfully"]
 
->RUN sudo systemctl start apache2.service mysql.service
+>RUN /etc/init.d/apache2 start && /etc/init.d/mysql start
 
 >CMD ["echo", "Services are up and running!"]
 
