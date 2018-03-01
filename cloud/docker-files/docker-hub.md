@@ -2,10 +2,21 @@
 
 Docker Hub is a repository for Docker Images! https://hub.docker.com
 
-#### Login Dockerhub:
+Login Dockerhub:
 
 >docker login --username=ssarioglu
 
+Build your image than, list your image
+
+>docker images --all
+
+Tag your image:
+
+>docker tag fbf27cd35e6d ssarioglu/ubuntu-web-db:first
+
+Push your image to dockerhub:
+
+>docker push ssarioglu/ubuntu-web-db
 
 ## 
 
