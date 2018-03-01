@@ -6,6 +6,7 @@ First create a file with your text editor:
 You will need a base image from dockerhub https://hub.docker.com and use sample CMD 
 
 >From ubuntu
+
 >CMD ["echo", "hello world!"]
 
 
