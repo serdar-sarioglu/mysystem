@@ -17,7 +17,7 @@ Firsty create a bash script  run.sh like;
 >echo hello world!
 
 
-On Docker file;
+On Docker file (my-docker);
 
 >From ubuntu
 
