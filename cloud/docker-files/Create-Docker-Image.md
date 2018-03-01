@@ -13,7 +13,7 @@ On Docker file (my-docker);
 
 >From ubuntu
 
->RUN apt-get update && apt-get install -y
+>RUN apt-get update && apt-get install -y apache2
 
 
 #### How to build the image:
