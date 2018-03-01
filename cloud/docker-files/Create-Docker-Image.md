@@ -1,7 +1,9 @@
 ## Create Docker Image
 
 First create a file with your text editor:
->vi my-docker
+>mkdir sample-web-server
+
+>vi dockerfile
 
 You will need a base image from dockerhub https://hub.docker.com and use sample CMD 
 
@@ -9,11 +11,8 @@ You will need a base image from dockerhub https://hub.docker.com and use sample 
 
 >CMD ["echo", "hello world!"]
 
-On Docker file (my-docker);
-
->From ubuntu
-
 >RUN apt-get update && apt-get install -y apache2
+
 
 
 #### How to build the image:
