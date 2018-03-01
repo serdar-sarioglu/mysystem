@@ -1,8 +1,12 @@
 ## Create Docker Image
 
-First create a file:
->docker login registry.mysystem.org
+First create a file with your text editor:
+>vi my-docker
 
+You will need a base image from dockerhub https://hub.docker.com and use sample CMD 
+
+>From ubuntu
+>CMD ["echo", "hello world!"]
 
 
 ## 
