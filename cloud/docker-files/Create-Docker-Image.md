@@ -1,5 +1,7 @@
 ## Create Docker Image
 
+We will create a test web server contains mariadb.
+
 First create a file with your text editor:
 >mkdir sample-web-server
 
@@ -11,7 +13,11 @@ You will need a base image from dockerhub https://hub.docker.com and use sample 
 
 >CMD ["echo", "hello world!"]
 
->RUN apt-get update && apt-get install -y apache2
+>RUN apt-get update && apt-get install -y apache2 php libapache2-mod-php mariadb-server mariadb-client libapache2-mod-php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-mcrypt php-ldap php-zip php-curl
+
+>RUN systemctl enable apache2.service mariadb.service
+
+>RUN systemctl start apache2.service mariadb.service
 
 
 
