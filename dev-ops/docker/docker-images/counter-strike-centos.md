@@ -6,7 +6,9 @@ Docker image contains counterstrike server, just run! Have Fun LoL
 
 >MAINTAINER Serdar SARIOGLU <serdar.sarioglu@mysystem.org>
 
->RUN yum update && yum install glibc.i686 libstdc++.i686 wget -y
+>RUN yum update 
+
+>RUN yum install glibc.i686 libstdc++.i686 wget -y
 
 >RUN wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
 
