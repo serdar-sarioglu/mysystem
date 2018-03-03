@@ -14,11 +14,11 @@ Docker image contains counterstrike server, just run! Have Fun LoL
 
 >RUN tar xf steamcmd_linux.tar.gz
 
->RUN ./steamcmd.sh +login anonymous +force_install_dir force_install_dir /root/csgo +app_update 740 validate +quit
+>RUN ./steamcmd.sh +login anonymous +force_install_dir force_install_dir ../csgo +app_update 740 validate +quit
 
 >CMD ["echo", "CS Server installed succesfully!"]
 
->EXPOSE 80
+>EXPOSE 27015
 
 
 ## 
