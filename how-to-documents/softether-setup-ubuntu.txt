@@ -8,9 +8,6 @@ cd vpnserver
 make
 
 
-
-
-
 cd ..
 mv vpnserver /usr/local
 cd /usr/local/vpnserver/

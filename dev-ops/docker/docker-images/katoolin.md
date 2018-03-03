@@ -6,7 +6,7 @@ Katoolin is a KALI replika on ubunutu, this docker image runs as KALI
 
 >MAINTAINER Serdar SARIOGLU <serdar.sarioglu@mysystem.org>
 
->RUN apt-get update && apt-get install -y git 
+>RUN apt-get update && apt-get install -y git python
 
 >RUN git clone https://github.com/LionSec/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
 
