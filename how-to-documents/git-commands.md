@@ -4,9 +4,9 @@
 >git clone https://github.com/ssarioglu/mysystem.git
 
 #### Global Login / Email
->git config --global user.name "Sam Smith"
+>git config --global user.name "Alan Turing"
 
->git config --global user.email sam@example.com
+>git config --global user.email turing@machines.com
 
 
 #### Create a new Git Repository
