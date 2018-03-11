@@ -1,4 +1,4 @@
-## Install Apache on Centos Minimal
+## Install Apache on Centos
 
 #### Follow the steps
 >yum install -y httpd mariadb-server mariadb php php-mysql php-soap wget swaks ftp

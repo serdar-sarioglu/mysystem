@@ -5,9 +5,7 @@
 
 #### Global Login / Email
 >git config --global user.name "Alan Turing"
-
 >git config --global user.email turing@machines.com
-
 
 #### Create a new Git Repository
 >git init
