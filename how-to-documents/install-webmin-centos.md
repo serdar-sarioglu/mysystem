@@ -1,3 +1,6 @@
+install-webmin-centos.md
+
+
 *Run as root
 
 wget http://prdownloads.sourceforge.net/webadmin/webmin-1.870-1.noarch.rpm
