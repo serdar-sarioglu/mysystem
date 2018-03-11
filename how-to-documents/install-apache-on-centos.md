@@ -2,8 +2,11 @@
 
 #### Follow the steps
 >yum install -y httpd mariadb-server mariadb php php-mysql php-soap wget swaks ftp
+
 >mysql_secure_installation
+
 >systemctl start httpd.service mariadb
+
 >systemctl enable httpd.service mariadb.service
 
 
