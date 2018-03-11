@@ -1,21 +1,7 @@
-Wget Samples
-
-Mirror a web page
-wget --mirror --convert-links --adjust-extension --page-requisites --no-parent http://mysystem.org
-
-
 ## Advanged Wget Samples
 
-#### Follow the steps (*Run as root)
->yum -y install perl perl-Net-SSLeay openssl perl-IO-Tty perl-Encode-Detect wget
-
->wget http://prdownloads.sourceforge.net/webadmin/webmin-1.870-1.noarch.rpm
-
->rpm -U webmin-1.870-1.noarch.rpm
-
->systemctl enable webmin
-
-
+#### Mirror a web page
+>wget --mirror --convert-links --adjust-extension --page-requisites --no-parent http://mysystem.org
 
 ## 
 
