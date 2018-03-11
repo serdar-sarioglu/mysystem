@@ -1,4 +1,0 @@
-Wget Samples
-
-Mirror a web page
-wget --mirror --convert-links --adjust-extension --page-requisites --no-parent http://mysystem.org
