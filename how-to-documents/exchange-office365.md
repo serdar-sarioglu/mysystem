@@ -1,9 +1,12 @@
 ## Exchange & Office 365 Goodies
 
 #### Junk Mail & Safe Senders Bulk (New)
+
+Connect Exchange PowerShell Console: 
+
 >Get-Mailbox | Set-MailboxJunkEmailConfiguration  -BlockedSendersAndDomains "bad-sender.com" -TrustedSendersAndDomains "john@good-sender.com" 
 
-To Check Policy is applied
+#### To Check Policy is applied
 
 >Get-MailboxJunkEmailConfiguration -Identity <serdar@mysystem.org>
 
