@@ -1,7 +1,22 @@
 ## Exchange & Office 365 Goodies
 
-#### Junk Mail & Safe Senders Bulk
+#### Junk Mail & Safe Senders Bulk (New)
 >Get-Mailbox | Set-MailboxJunkEmailConfiguration  -BlockedSendersAndDomains "bad-sender.com" -TrustedSendersAndDomains "john@good-sender.com" 
+
+To Check Policy is applied
+
+>Get-MailboxJunkEmailConfiguration -Identity <serdar@mysystem.org>
+
+Update Existing Policy
+
+>$Temp = Get-MailboxJunkEmailConfiguration <serdar@mysystem.org>
+
+>$Temp.BlockedSendersAndDomains += "<bad-sender>.com","<user>@<bad-sender>.com","..."
+
+>$Temp.TrustedSendersAndDomains += "<good-sender>.com","<user>@<good-sender>.com","..."
+
+>Set-MailboxJunkEmailConfiguration -Identity <user@contoso.com> -BlockedSendersAndDomains  $Temp.BlockedSendersAndDomains -TrustedSendersAndDomains $Temp.TrustedSendersAndDomains 
+
 
 
 ##
