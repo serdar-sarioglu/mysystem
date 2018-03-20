@@ -175,5 +175,5 @@ Energy, Oil & Gas, Information Technologies, Telecom, Automotive
 
 -------------------------------------------------------------- ------------------
 **KeyWords**
--------------------------------------------------------------- ------------------
+
 `IT Management` `Budget` `Scrum` `Agile` `CISSP` `CISM` `ACSA` `MCSE` `VCP` `CCNA` `Regulation` `Audit` `Security` `SAP` `ERP` `CRM` `Industrial IT` `DevOps` `AWS` `Azure` `Docker` `Chef` `Jenkins` 
