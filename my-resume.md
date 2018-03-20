@@ -6,12 +6,11 @@ LinkedIn:
 [www.linkedin.com/in/serdarsarioglu](https://www.linkedin.com/in/serdarsarioglu)
 
 
-
+-------------------------------------------------------------- ------------------
 **WORK HISTORY**
+-------------------------------------------------------------- ------------------
 
-  --------------------------------------------------------------------------------- ---------------------
-  **Senior IT Architect & Security Principle,** Exact NL (ERP & Accounting Cloud)   **2016 -- Present**
-  --------------------------------------------------------------------------------- ---------------------
+**Senior IT Architect & Security Principle,Exact NL (ERP & Accounting Cloud) (2016 - Present)**
 
 -   Responsible for Operational Availability of Exact Cloud
     Infrastructure (35,000+ Online Clients)
@@ -31,9 +30,8 @@ LinkedIn:
 
 -   Increased Awareness with Infra Redesign
 
-  -------------------------------------------------------------- ------------------
   **IT Coordinator (Infra & Security)**, TUPRAS TR (Oil & Gas)   **2008 -- 2016**
-  -------------------------------------------------------------- ------------------
+
 
 -   Responsible for Managing Refinery IT/OT Infra Teams
 
@@ -109,6 +107,7 @@ LinkedIn:
 
 -   Integrated Backup GPRS with Production and Dealer Networks (Improve
     Uptime %99.98)
+
 
 **EDUCATION & LANGUAGES**
 
