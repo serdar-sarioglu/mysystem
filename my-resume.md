@@ -156,14 +156,19 @@ LinkedIn:
 
 **Associations**
 
--   Member, ISACA -- Information Systems Audit and Control Association
+-   Member, ISACA - Information Systems Audit and Control Association
 
--   Member, ISC ² -- International Information System Security Certification Consortium
+-   Member, ISC ² - International Information System Security Certification Consortium
 
--   Member, NIST Security Council -- ICS Security Commission
+-   Member, NIST Security Council - ICS Security Commission
 
 -   Member, Institute of Electrical and Electronics Engineers, IEEE
 
--   Member, Turkey Amateur Radio Association -- Type A License Holder (TA2NQN)
+-   Member, Turkey Amateur Radio Association - Type A License Holder (TA2NQN)
 
 -   Member, Natural Disasters and All Other Emergency Conditions Voluntary, AKUT
+
+-------------------------------------------------------------- ------------------
+**KeyWords**
+-------------------------------------------------------------- ------------------
+
