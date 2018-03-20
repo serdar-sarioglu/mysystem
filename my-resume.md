@@ -146,34 +146,24 @@ CCNA, Cisco Certified Network Associate
 
 CEH, Certified Ethical Hacker
 
--   **Awards**
 
-    **Innovation Award (Tüpraş),** Mobile Datacenter Project
+**Awards**
 
-> **R&D Award (Tüpraş),** Based Ontological Analysis of IT Assets, EGE
-> University
+Innovation Award (Tüpraş), Mobile Datacenter Project
 
--   **Vendors/Companies Worked With**
+R&D Award (Tüpraş),Based Ontological Analysis of IT Assets, EGE University
 
-> **Infra:** SAP, Amazon, Microsoft, VMware, Citrix, EMC, VCE, Cisco
->
-> **Security:** Checkpoint, Juniper, Symantec, Websense, Tenable, RSA,
-> Safe Net, Deloitte
 
--   **Associations**
+**Associations**
 
-    **Member,** ISACA -- Information Systems Audit and Control
-    Association
+Member, ISACA -- Information Systems Audit and Control Association
 
-    **Member,** ISC ² -- International Information System Security
-    Certification Consortium
+Member, ISC ² -- International Information System Security Certification Consortium
 
-    **Member,** NIST Security Council -- ICS Security Commission
+Member, NIST Security Council -- ICS Security Commission
 
-    **Member,** Institute of Electrical and Electronics Engineers, IEEE
+Member, Institute of Electrical and Electronics Engineers, IEEE
 
-    **Member,** Turkey Amateur Radio Association -- Type A License
-    Holder (TA2NQN)
+Member, Turkey Amateur Radio Association -- Type A License Holder (TA2NQN)
 
-    **Member,** Natural Disasters and All Other Emergency Conditions
-    Voluntary, AKUT
+Member, Natural Disasters and All Other Emergency Conditions Voluntary, AKUT
