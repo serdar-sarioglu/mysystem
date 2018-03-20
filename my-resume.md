@@ -126,44 +126,44 @@ LinkedIn:
 
 **Certifications**
 
-CISSP, Certified Information Systems Security Professional
+-   CISSP, Certified Information Systems Security Professional
 
-CISM, Certified Information Security Manager - (Not yet,Training)
+-   CISM, Certified Information Security Manager - (Not yet,Training)
 
-CCSP, Certified Cloud Security Professional - (Not yet,Training)
+-   CCSP, Certified Cloud Security Professional - (Not yet,Training)
 
-ACSA, AWS Certified Solutions Architect
+-   ACSA, AWS Certified Solutions Architect
 
-VCP, VMware Certified Professional (Datacenter)
+-   VCP, VMware Certified Professional (Datacenter)
 
-MCP, Microsoft Certified Professional
+-   MCP, Microsoft Certified Professional
 
-MCSA, Microsoft Certified Security Administrator
+-   MCSA, Microsoft Certified Security Administrator
 
-MCSE, Microsoft Certified Systems Engineer
+-   MCSE, Microsoft Certified Systems Engineer
 
-CCNA, Cisco Certified Network Associate
+-   CCNA, Cisco Certified Network Associate
 
-CEH, Certified Ethical Hacker
+-   CEH, Certified Ethical Hacker
 
 
 **Awards**
 
-Innovation Award (Tüpraş), Mobile Datacenter Project
+-   Innovation Award (Tüpraş), Mobile Datacenter Project
 
-R&D Award (Tüpraş),Based Ontological Analysis of IT Assets, EGE University
+-   R&D Award (Tüpraş),Based Ontological Analysis of IT Assets, EGE University
 
 
 **Associations**
 
-Member, ISACA -- Information Systems Audit and Control Association
+-   Member, ISACA -- Information Systems Audit and Control Association
 
-Member, ISC ² -- International Information System Security Certification Consortium
+-   Member, ISC ² -- International Information System Security Certification Consortium
 
-Member, NIST Security Council -- ICS Security Commission
+-   Member, NIST Security Council -- ICS Security Commission
 
-Member, Institute of Electrical and Electronics Engineers, IEEE
+-   Member, Institute of Electrical and Electronics Engineers, IEEE
 
-Member, Turkey Amateur Radio Association -- Type A License Holder (TA2NQN)
+-   Member, Turkey Amateur Radio Association -- Type A License Holder (TA2NQN)
 
-Member, Natural Disasters and All Other Emergency Conditions Voluntary, AKUT
+-   Member, Natural Disasters and All Other Emergency Conditions Voluntary, AKUT
