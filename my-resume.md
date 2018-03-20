@@ -1,9 +1,10 @@
 **M. Serdar SARIOGLU - IT Manager & Security Architect**
 
-GSM: +90 541-831-9252 Email: <serdar.sarioglu@mysystem.org>
 
-LinkedIn:
-[www.linkedin.com/in/serdarsarioglu](https://www.linkedin.com/in/serdarsarioglu)
+<a href="https://mysystem.org" title="Mysystem.org"><img src="https://img.shields.io/badge/Visit-mysite-green.svg"></a>
+<a href="mailto:serdar.sarioglu@mysystem.org" title="Email"><img src="https://img.shields.io/badge/Email-me-blue.svg"></a>
+<a href="https://www.linkedin.com/in/serdarsarioglu/" title="Linkedin"><img src="https://img.shields.io/badge/Linkedin-me-orange.svg"></a>
+
 
 
 -------------------------------------------------------------- ------------------
