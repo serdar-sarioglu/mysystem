@@ -169,6 +169,12 @@ LinkedIn:
 -   Member, Natural Disasters and All Other Emergency Conditions Voluntary, AKUT
 
 -------------------------------------------------------------- ------------------
+**Worked Industries**
+-------------------------------------------------------------- ------------------
+Energy, Oil & Gas, Information Technologies, Telecom, Automotive
+
+-------------------------------------------------------------- ------------------
 **KeyWords**
 -------------------------------------------------------------- ------------------
-
+`IT Management` `Budget` `Scrum` `Agile` `CISSP` `CISM` `ACSA` `MCSE` `VCP` `CCNA` `Regulation` `Audit` `Security` `SAP` `ERP` `CRM`
+`Industrial IT` `DevOps` `AWS` `Azure` `Docker` `Chef` `Jenkins` `MCSE` `VCP` `CCNA` `Regulation` `Audit` `Security` `SAP` `ERP` `CRM`
