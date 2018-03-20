@@ -168,7 +168,7 @@ LinkedIn:
 
 **Worked Industries**
 
-Energy, Oil & Gas, Information Technologies, Telecom, Automotive
+`Energy` , `Oil & Gas` , `Information Technologies`, `Telecom` , `Automotive`
 
 -------------------------------------------------------------- ------------------
 **KeyWords**
