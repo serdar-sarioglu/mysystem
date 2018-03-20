@@ -32,7 +32,7 @@ LinkedIn:
 
 
 
-**IT Coordinator (Infra & Security), TUPRAS TR (Oil & Gas) (2008 -- 2016)**
+**IT Coordinator (Infra & Security), TUPRAS TR (Oil & Gas) (2008 - 2016)**
 
 
 -   Responsible for Managing Refinery IT/OT Infra Teams
@@ -71,7 +71,7 @@ LinkedIn:
 
 
 
-**IT System Administrator,MIRA TR (Telecom) (2007 -- 2008)**
+**IT System Administrator,MIRA TR (Telecom) (2007 - 2008)**
   
 -   Responsible for IT Infrastructure (Servers, Firewalls, Network
     Devices, Backup) with %99 SLA
@@ -90,7 +90,7 @@ LinkedIn:
     Plans
 
  
-**IT Network Administrator,Ford Motor Company TR (Automotive) (2006 -- 2007)**
+**IT Network Administrator,Ford Motor Company TR (Automotive) (2006 - 2007)**
 
 
 -   Managed Dealer Intranet (Turkey\'s biggest with 200 sites and over
