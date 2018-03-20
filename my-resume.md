@@ -89,9 +89,9 @@ LinkedIn:
 -   Optimized Central and Branch Sites Topology, Implemented Backup & DR
     Plans
 
-  ------------------------------------------------------------------ ------------------
-  **IT Network Administrator,** Ford Motor Company TR (Automotive)   **2006 -- 2007**
-  ------------------------------------------------------------------ ------------------
+ 
+**IT Network Administrator,Ford Motor Company TR (Automotive) (2006 -- 2007)**
+
 
 -   Managed Dealer Intranet (Turkey\'s biggest with 200 sites and over
     5,000+ clients)
@@ -110,8 +110,9 @@ LinkedIn:
 -   Integrated Backup GPRS with Production and Dealer Networks (Improve
     Uptime %99.98)
 
-
+-------------------------------------------------------------- ------------------
 **EDUCATION & LANGUAGES**
+-------------------------------------------------------------- ------------------
 
 **MSc;** Engineering Management KOU (2012)
 
@@ -119,9 +120,11 @@ LinkedIn:
 
 **English:** C2 \| **Dutch**: B1
 
+-------------------------------------------------------------- ------------------
 **ADDITIONAL EXPERIENCE**
+-------------------------------------------------------------- ------------------
 
--   **Certifications**
+**Certifications**
 
     **CISSP**, Certified Information Systems Security Professional
 
