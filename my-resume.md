@@ -168,9 +168,9 @@ LinkedIn:
 
 -   Member, Natural Disasters and All Other Emergency Conditions Voluntary, AKUT
 
--------------------------------------------------------------- ------------------
+
 **Worked Industries**
--------------------------------------------------------------- ------------------
+
 Energy, Oil & Gas, Information Technologies, Telecom, Automotive
 
 -------------------------------------------------------------- ------------------
