@@ -126,27 +126,25 @@ LinkedIn:
 
 **Certifications**
 
-    **CISSP**, Certified Information Systems Security Professional
+CISSP, Certified Information Systems Security Professional
 
-    **CISM,** Certified Information Security Manager -- (Not yet,
-    Training)
+CISM, Certified Information Security Manager - (Not yet,Training)
 
-    **CCSP**, Certified Cloud Security Professional -- (Not yet,
-    Training)
+CCSP, Certified Cloud Security Professional - (Not yet,Training)
 
-    **ACSA,** AWS Certified Solutions Architect
+ACSA, AWS Certified Solutions Architect
 
-    **VCP**, VMware Certified Professional (Datacenter)
+VCP, VMware Certified Professional (Datacenter)
 
-    **MCP,** Microsoft Certified Professional
+MCP, Microsoft Certified Professional
 
-    **MCSA,** Microsoft Certified Security Administrator
+MCSA, Microsoft Certified Security Administrator
 
-    **MCSE**, Microsoft Certified Systems Engineer
+MCSE, Microsoft Certified Systems Engineer
 
-    **CCNA**, Cisco Certified Network Associate
+CCNA, Cisco Certified Network Associate
 
-    **CEH**, Certified Ethical Hacker
+CEH, Certified Ethical Hacker
 
 -   **Awards**
 
