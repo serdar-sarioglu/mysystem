@@ -23,14 +23,16 @@ LinkedIn:
 
 -   SOC Reports, Security Instances Response, and Compliance Acceptances
 
-<!-- -->
+
 
 -   Migrated EOL Infra from Rack-Space (3 Datacenters) to AWS and MS
     Azure
 
 -   Increased Awareness with Infra Redesign
 
-  **IT Coordinator (Infra & Security)**, TUPRAS TR (Oil & Gas)   **2008 -- 2016**
+
+
+**IT Coordinator (Infra & Security), TUPRAS TR (Oil & Gas) (2008 -- 2016)**
 
 
 -   Responsible for Managing Refinery IT/OT Infra Teams
@@ -67,10 +69,10 @@ LinkedIn:
 -   Managed KOC Holding Security Commission and Created Standards for
     Energy Companies
 
-  ------------------------------------------------ ------------------
-  **IT System Administrator,** MIRA TR (Telecom)   **2007 -- 2008**
-  ------------------------------------------------ ------------------
 
+
+**IT System Administrator,MIRA TR (Telecom) (2007 -- 2008)**
+  
 -   Responsible for IT Infrastructure (Servers, Firewalls, Network
     Devices, Backup) with %99 SLA
 
