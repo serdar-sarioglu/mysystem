@@ -22,6 +22,7 @@
 >Increased Awareness with Infra Redesign
 
 
+
 **IT Coordinator (Infra & Security), TUPRAS TR (Oil & Gas) (2008 - 2016)**
 
 - Responsible for Managing Refinery IT/OT Infra Teams
