@@ -87,9 +87,9 @@ Started to design IT infrastructure after six years of experience. As part of th
 
 I have managed Enterprise Servers, the full Microsoft infrastructure suite of products including Active Directory (2008), Exchange (2010), LCS/LYNC, SQL, System Center Family, Forefront Family, Web Servers, Terminal Services and WSUS. 
 
-    ✔ Improved Collaboration Services with Exchange 2010 migration, Email archiving (Evault), Mail Security (Ironport) Deployments
+✔ Improved Collaboration Services with Exchange 2010 migration, Email archiving (Evault), Mail Security (Ironport) Deployments
 
-    ✔ Communication was very important, migrated PBX to IPT than integrated LYNC. Internal clients were able to communicate with mobile comfort. In the end, installed video conferencing systems and clients traveling costs reduced.
+✔ Communication was very important, migrated PBX to IPT than integrated LYNC. Internal clients were able to communicate with mobile comfort. In the end, installed video conferencing systems and clients traveling costs reduced.
 
 
 **MIRA - IT System Administrator ► DevOps ♦ Web Servers ♦ Nagios ♦ Linux ♦ Free BSD (2007 - 2008)**
