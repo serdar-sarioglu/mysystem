@@ -35,19 +35,19 @@
 - Responsible for AD, Exchange, Database Servers, VOIP - Public Clouds (AWS, Azure, O365)
 
 
->Completed RUP (New Refinery) US\$2.7bn IT Infrastructure On Time with Calculated Budget
+    >Completed RUP (New Refinery) US\$2.7bn IT Infrastructure On Time with Calculated Budget
 
->Deployed Big Data on AWS, Production Reports are now more Speedy and Historical
+    >Deployed Big Data on AWS, Production Reports are now more Speedy and Historical
 
->Completed Mobile Datacenter Project 650K+ \$ (First Made in Turkey)
+    >Completed Mobile Datacenter Project 650K+ \$ (First Made in Turkey)
 
->Completed ICS & SCADA Security Project, Able to Monitoring by 3^rd^ Party SOC 7/24
+    >Completed ICS & SCADA Security Project, Able to Monitoring by 3^rd^ Party SOC 7/24
 
->Built Private Cloud with Vblock and VMware, 400+ Machines are Running On-Prem Cloud
+    >Built Private Cloud with Vblock and VMware, 400+ Machines are Running On-Prem Cloud
 
->Completed ISO 27001 Certification and NIST 800-82 ICS Compliance
+    >Completed ISO 27001 Certification and NIST 800-82 ICS Compliance
 
->Managed KOC Holding Security Commission and Created Standards for Energy Companies
+    >Managed KOC Holding Security Commission and Created Standards for Energy Companies
 
 
 **IT System Administrator,MIRA TR (Telecom) (2007 - 2008)**
@@ -58,9 +58,9 @@
 
 - Supported Branch Offices Network and Production Lifecycle
 
->Solved Chronical Problems with Nagios & Bash Scripts, Improved Charging US\$15K per/month
+    >Solved Chronical Problems with Nagios & Bash Scripts, Improved Charging US\$15K per/month
 
->Optimized Central and Branch Sites Topology, Implemented Backup & DR Plans
+    >Optimized Central and Branch Sites Topology, Implemented Backup & DR Plans
 
  
 **IT Network Administrator,Ford Motor Company TR (Automotive) (2006 - 2007)**
@@ -72,18 +72,18 @@
 - Managed Ford Production Line Linux Servers, WAN Links (Point-to-Point with England)
 
 
->Upgraded, Installed and Troubleshoot Networks Devices (IOS Upgrade,backup)
+    >Upgraded, Installed and Troubleshoot Networks Devices (IOS Upgrade,backup)
 
->Integrated Backup GPRS with Production and Dealer Networks (Improve Uptime %99.98)
+    >Integrated Backup GPRS with Production and Dealer Networks (Improve Uptime %99.98)
 
 -------------------------------------------------------------- ------------------
 **EDUCATION & LANGUAGES**
 
-**MSc;** Engineering Management KOU (2012)
+    **MSc;** Engineering Management KOU (2012)
 
-**BA;** Electronics & Communications Engineering (ECE), KOU (2006)
+    **BA;** Electronics & Communications Engineering (ECE), KOU (2006)
 
-**English:** C2 \| **Dutch**: B1
+    **English:** C2 \| **Dutch**: B1
 
 -------------------------------------------------------------- ------------------
 **ADDITIONAL EXPERIENCE**
