@@ -17,9 +17,9 @@
 
 - SOC Reports, Security Instances Response, and Compliance Acceptances
 
->Migrated EOL Infra from Rack-Space (3 Datacenters) to AWS and MS Azure
+    >Migrated EOL Infra from Rack-Space (3 Datacenters) to AWS and MS Azure
 
->Increased Awareness with Infra Redesign
+    >Increased Awareness with Infra Redesign
 
 
 **IT Coordinator (Infra & Security), TUPRAS TR (Oil & Gas) (2008 - 2016)**
