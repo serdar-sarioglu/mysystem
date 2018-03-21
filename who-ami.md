@@ -8,12 +8,16 @@
 **WORK HISTORY**
 
 **Staff Build ► DevOps ♦ AWS ♦ Docker ♦ Jenkins ♦ CD / CI ♦ Micro Services (2017- Present)**
+
 GE is the world’s Digital Industrial Company, transforming the industry with software-defined machines and solutions that are connected, responsive and predictive.
 I am designing Cloud Infra for new engages. I am responsible for CD / CI management implement new technologies to cloud infrastructure. Also, I try to understand developers requirements and make them do their jobs more comfortable.
 
 ✔ Built Mesos / Marathon Micro services on AWS
+
 ✔ Improvements on CD / CI with Jenkins
+
 ✔ Docker Container Managemet
+
 ✔ SDLC Integration
 
 
