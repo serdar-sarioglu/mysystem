@@ -22,7 +22,6 @@
 >Increased Awareness with Infra Redesign
 
 
-
 **IT Coordinator (Infra & Security), TUPRAS TR (Oil & Gas) (2008 - 2016)**
 
 - Responsible for Managing Refinery IT/OT Infra Teams
@@ -53,42 +52,29 @@
 
 **IT System Administrator,MIRA TR (Telecom) (2007 - 2008)**
   
--Responsible for IT Infrastructure (Servers, Firewalls, Network
-    Devices, Backup) with %99 SLA
+- Responsible for IT Infrastructure (Servers, Firewalls, Network Devices, Backup) with %99 SLA
 
--Managed Active Directory, Exchange, Database Servers, SCCM & Web
-    Servers
+- Managed Active Directory, Exchange, Database Servers, SCCM & Web Servers
 
--Supported Branch Offices Network and Production Lifecycle
+- Supported Branch Offices Network and Production Lifecycle
 
-<!-- -->
+>Solved Chronical Problems with Nagios & Bash Scripts, Improved Charging US\$15K per/month
 
--Solved Chronical Problems with Nagios & Bash Scripts, Improved
-    Charging US\$15K per/month
-
--Optimized Central and Branch Sites Topology, Implemented Backup & DR
-    Plans
+>Optimized Central and Branch Sites Topology, Implemented Backup & DR Plans
 
  
 **IT Network Administrator,Ford Motor Company TR (Automotive) (2006 - 2007)**
 
+- Managed Dealer Intranet (Turkey\'s biggest with 200 sites and over 5,000+ clients)
 
--Managed Dealer Intranet (Turkey\'s biggest with 200 sites and over
-    5,000+ clients)
+- Managed Core Network, Cisco routers, and IP Telephony Infrastructure by %99,96 SLA
 
--Managed Core Network, Cisco routers, and IP Telephony Infrastructure
-    by %99,96 SLA
+- Managed Ford Production Line Linux Servers, WAN Links (Point-to-Point with England)
 
--Managed Ford Production Line Linux Servers, WAN Links
-    (Point-to-Point with England)
 
-<!-- -->
+>Upgraded, Installed and Troubleshoot Networks Devices (IOS Upgrade,backup)
 
--Upgraded, Installed and Troubleshoot Networks Devices (IOS Upgrade,
-    backup)
-
--Integrated Backup GPRS with Production and Dealer Networks (Improve
-    Uptime %99.98)
+>Integrated Backup GPRS with Production and Dealer Networks (Improve Uptime %99.98)
 
 -------------------------------------------------------------- ------------------
 **EDUCATION & LANGUAGES**
