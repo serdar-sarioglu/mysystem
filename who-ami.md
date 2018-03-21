@@ -41,7 +41,7 @@ I was part of Cloud Operations Team maintaining Exact Online making Up & Running
     ✔ Increased Awareness with Infra Redesign
 
 
-**Senior ICT / OT Coordinator & Security Manager ► ICT Infrastructure ♦ ICS ♦ ERP ♦ SecOps (2008 - 2016)**
+**TUPRAS - Senior ICT / OT Coordinator & Security Manager ► ICT Infrastructure ♦ ICS ♦ ERP ♦ SecOps (2008 - 2016)**
 
 TUPRAS is the Biggest Enterprise Of Turkey with 29 million tons/year capacity of crude oil processing and owns all of Turkey’s refining capacity. Regarding geographical location, its refineries are deployed adjacent to consumption areas and are best suited to meet the needs of the country.
 
