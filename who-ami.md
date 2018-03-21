@@ -43,6 +43,11 @@ I was part of Cloud Operations Team maintaining Exact Online making Up & Running
 
 **IT Coordinator (Infra & Security), TUPRAS TR (Oil & Gas) (2008 - 2016)**
 
+TUPRAS is the Biggest Enterprise Of Turkey with 29 million tons/year capacity of crude oil processing and owns all of Turkey’s refining capacity. Regarding geographical location, its refineries are deployed adjacent to consumption areas and are best suited to meet the needs of the country.
+
+I was responsible for the operational 24×7 availability of Refinery (IT) Process and (OT) Cyber Security (PLC / SCADA / DCS) and managing SOC teams. I designed and implemented a large variety of network topologies and Public Cloud (AWS & Azure) Engagements. Making capacity plans and integrating new technologies for business requirements was part of my job.
+Also auditing Private Cloud, Virtual Infrastructure, Storages, Windows/Linux Servers, Security Devices, AD, Collaboration Services was my daily routine.
+
 - Responsible for Managing Refinery IT/OT Infra Teams
 
 - Responsible for Supporting Production (ERP) and SAP Infrastructure
@@ -54,19 +59,19 @@ I was part of Cloud Operations Team maintaining Exact Online making Up & Running
 - Responsible for AD, Exchange, Database Servers, VOIP - Public Clouds (AWS, Azure, O365)
 
 
-    >Completed RUP (New Refinery) US\$2.7bn IT Infrastructure On Time with Calculated Budget
+    ✔ Completed RUP (New Refinery) US\$2.7bn IT Infrastructure On Time with Calculated Budget
 
-    >Deployed Big Data on AWS, Production Reports are now more Speedy and Historical
+    ✔ Deployed Big Data on AWS, Production Reports are now more Speedy and Historical
 
-    >Completed Mobile Datacenter Project 650K+ \$ (First Made in Turkey)
+    ✔ Completed Mobile Datacenter Project 650K+ \$ (First Made in Turkey)
 
-    >Completed ICS & SCADA Security Project, Able to Monitoring by 3^rd^ Party SOC 7/24
+    ✔ Completed ICS & SCADA Security Project, Able to Monitoring by 3^rd^ Party SOC 7/24
 
-    >Built Private Cloud with Vblock and VMware, 400+ Machines are Running On-Prem Cloud
+    ✔ Built Private Cloud with Vblock and VMware, 400+ Machines are Running On-Prem Cloud
 
-    >Completed ISO 27001 Certification and NIST 800-82 ICS Compliance
+    ✔ Completed ISO 27001 Certification and NIST 800-82 ICS Compliance
 
-    >Managed KOC Holding Security Commission and Created Standards for Energy Companies
+    ✔ Managed KOC Holding Security Commission and Created Standards for Energy Companies
 
 
 **IT System Administrator,MIRA TR (Telecom) (2007 - 2008)**
