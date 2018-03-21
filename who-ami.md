@@ -9,21 +9,18 @@
 
 **Senior IT Architect & Security Principle,Exact NL (ERP & Accounting Cloud) (2016 - Present)**
 
--Responsible for Operational Availability of Exact Cloud
+- Responsible for Operational Availability of Exact Cloud
     Infrastructure (35,000+ Online Clients)
 
--Responsible for Technology Road Mapping, Budget Planning, Agile --
+- Responsible for Technology Road Mapping, Budget Planning, Agile --
     Scrum Meetings
 
--Managing AWS (EC2, Docker Containers, S3, VPC), Azure (Office 365,
+- Managing AWS (EC2, Docker Containers, S3, VPC), Azure (Office 365,
     SaaS, PaaS, IaaS)
 
--SOC Reports, Security Instances Response, and Compliance Acceptances
+- SOC Reports, Security Instances Response, and Compliance Acceptances
 
-
->Migrated EOL Infra from Rack-Space (3 Datacenters) to AWS and MS
-    Azure
-
+>Migrated EOL Infra from Rack-Space (3 Datacenters) to AWS and MS Azure
 >Increased Awareness with Infra Redesign
 
 
