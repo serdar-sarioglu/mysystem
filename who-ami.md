@@ -7,7 +7,17 @@
 -------------------------------------------------------------- ------------------
 **WORK HISTORY**
 
-**Senior IT Architect & Security Principle,Exact NL (ERP & Accounting Cloud) (2016 - Present)**
+**Staff Build ► DevOps ♦ AWS ♦ Docker ♦ Jenkins ♦ CD / CI ♦ Micro Services (2017- Present)**
+GE is the world’s Digital Industrial Company, transforming the industry with software-defined machines and solutions that are connected, responsive and predictive.
+I am designing Cloud Infra for new engages. I am responsible for CD / CI management implement new technologies to cloud infrastructure. Also, I try to understand developers requirements and make them do their jobs more comfortable.
+
+✔ Built Mesos / Marathon Micro services on AWS
+✔ Improvements on CD / CI with Jenkins
+✔ Docker Container Managemet
+✔ SDLC Integration
+
+
+**Senior IT Architect & Security Principle,Exact NL (ERP & Accounting Cloud) (2016 -2017)**
 
 - Responsible for Operational Availability of Exact Cloud Infrastructure (35,000+ Online Clients)
 
@@ -79,11 +89,11 @@
 -------------------------------------------------------------- ------------------
 **EDUCATION & LANGUAGES**
 
-    **MSc;** Engineering Management KOU (2012)
+**MSc;** Engineering Management KOU (2012)
 
-    **BA;** Electronics & Communications Engineering (ECE), KOU (2006)
+**BA;** Electronics & Communications Engineering (ECE), KOU (2006)
 
-    **English:** C2 \| **Dutch**: B1
+**English:** C2 \| **Dutch**: B1
 
 -------------------------------------------------------------- ------------------
 **ADDITIONAL EXPERIENCE**
