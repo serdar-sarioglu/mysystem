@@ -9,58 +9,45 @@
 
 **Senior IT Architect & Security Principle,Exact NL (ERP & Accounting Cloud) (2016 - Present)**
 
-- Responsible for Operational Availability of Exact Cloud
-    Infrastructure (35,000+ Online Clients)
+- Responsible for Operational Availability of Exact Cloud Infrastructure (35,000+ Online Clients)
 
-- Responsible for Technology Road Mapping, Budget Planning, Agile --
-    Scrum Meetings
+- Responsible for Technology Road Mapping, Budget Planning, Agile & Scrum Meetings
 
-- Managing AWS (EC2, Docker Containers, S3, VPC), Azure (Office 365,
-    SaaS, PaaS, IaaS)
+- Managing AWS (EC2, Docker Containers, S3, VPC), Azure (Office 365,SaaS, PaaS, IaaS)
 
 - SOC Reports, Security Instances Response, and Compliance Acceptances
 
 >Migrated EOL Infra from Rack-Space (3 Datacenters) to AWS and MS Azure
+
 >Increased Awareness with Infra Redesign
 
 
 **IT Coordinator (Infra & Security), TUPRAS TR (Oil & Gas) (2008 - 2016)**
 
+- Responsible for Managing Refinery IT/OT Infra Teams
 
--Responsible for Managing Refinery IT/OT Infra Teams
+- Responsible for Supporting Production (ERP) and SAP Infrastructure
 
--Responsible for Supporting Production (ERP) and SAP Infrastructure
+- Responsible for Cyber Security (Firewalls, WAF, APT) / Instance Reporting, Audits & Forensics
 
--Responsible for Cyber Security (Firewalls, WAF, APT) / Instance
-    Reporting, Audits & Forensics
+- Involved in Designing and Managing a large variety of Infrastructures (8,000+ Clients)
 
--Involved in Designing and Managing a large variety of
-    Infrastructures (8,000+ Clients)
+- Responsible for AD, Exchange, Database Servers, VOIP - Public Clouds (AWS, Azure, O365)
 
--Responsible for AD, Exchange, Database Servers, VOIP - Public Clouds
-    (AWS, Azure, O365)
 
-<!-- -->
+>Completed RUP (New Refinery) US\$2.7bn IT Infrastructure On Time with Calculated Budget
 
--Completed RUP (New Refinery) US\$2.7bn IT Infrastructure On Time
-    with Calculated Budget
+>Deployed Big Data on AWS, Production Reports are now more Speedy and Historical
 
--Deployed Big Data on AWS, Production Reports are now more Speedy and
-    Historical
+>Completed Mobile Datacenter Project 650K+ \$ (First Made in Turkey)
 
--Completed Mobile Datacenter Project 650K+ \$ (First Made in Turkey)
+>Completed ICS & SCADA Security Project, Able to Monitoring by 3^rd^ Party SOC 7/24
 
--Completed ICS & SCADA Security Project, Able to Monitoring by 3^rd^
-    Party SOC 7/24
+>Built Private Cloud with Vblock and VMware, 400+ Machines are Running On-Prem Cloud
 
--Built Private Cloud with Vblock and VMware, 400+ Machines are
-    Running On-Prem Cloud
+>Completed ISO 27001 Certification and NIST 800-82 ICS Compliance
 
--Completed ISO 27001 Certification and NIST 800-82 ICS Compliance
-
--Managed KOC Holding Security Commission and Created Standards for
-    Energy Companies
-
+>Managed KOC Holding Security Commission and Created Standards for Energy Companies
 
 
 **IT System Administrator,MIRA TR (Telecom) (2007 - 2008)**
