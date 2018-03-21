@@ -28,17 +28,17 @@ Exact build Cloud Business software for SMEs and their accountants and a global 
 
 I was part of Cloud Operations Team maintaining Exact Online making Up & Running. Managing over 20K Active Users (Running Transactions) Infrastructure on Cloud.
 
-✔ Responsible for Operational Availability of Exact Cloud Infrastructure (35,000+ Online Clients)
+- Responsible for Operational Availability of Exact Cloud Infrastructure (35,000+ Online Clients)
 
-✔ Responsible for Technology Road Mapping, Budget Planning, Agile & Scrum Meetings
+- Responsible for Technology Road Mapping, Budget Planning, Agile & Scrum Meetings
 
-✔ Managing AWS (EC2, Docker Containers, S3, VPC), Azure (Office 365,SaaS, PaaS, IaaS)
+- Managing AWS (EC2, Docker Containers, S3, VPC), Azure (Office 365,SaaS, PaaS, IaaS)
 
-✔ SOC Reports, Security Instances Response, and Compliance Acceptances
+- SOC Reports, Security Instances Response, and Compliance Acceptances
 
-    >Migrated EOL Infra from Rack-Space (3 Datacenters) to AWS and MS Azure
+    ✔ Migrated EOL Infra from Rack-Space (3 Datacenters) to AWS and MS Azure
 
-    >Increased Awareness with Infra Redesign
+    ✔ Increased Awareness with Infra Redesign
 
 
 **IT Coordinator (Infra & Security), TUPRAS TR (Oil & Gas) (2008 - 2016)**
