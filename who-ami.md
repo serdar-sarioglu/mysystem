@@ -76,20 +76,20 @@ Also auditing Private Cloud, Virtual Infrastructure, Storages, Windows/Linux Ser
 **TUPRAS - IT / OT Systems Supervisor ► DevOps ♦ Virtualization ♦ Storage ♦ Information Security**
 
 Started to design IT infrastructure after six years of experience. As part of the Infrastructure team, I have begun optimising the IT infrastructure and made improvements and completed ISO 27001 Certification. By the way, I have continued managing Virtual Infrastructure, Active Directory, Exchange, IPT, Firewalls, VPN and NAC Devices.
+- 
+✔ Completed first Container (Mobile) Data-Center Project $650K and built a Hot Disaster Recovery site. Started to replicate business-critical data with Recovery Point, able to restore to a checkpoint quickly.
 
-    - Completed first Container (Mobile) Data-Center Project $650K and built a Hot Disaster Recovery site. Started to replicate business-critical data with Recovery Point, able to restore to a checkpoint quickly.
+✔ Integrated HR SAP module used by HR department with Active Directory and Account management became automatically. 
 
-    - Integrated HR SAP module used by HR department with Active Directory and Account management became automatically. 
-
-    - Completed virtualization and migrated the whole enterprise IT to High - Available Virtual Infrastructure running on VMware Esx - Vcloud and DevOps
+✔ Completed virtualization and migrated the whole enterprise IT to High - Available Virtual Infrastructure running on VMware Esx - Vcloud and DevOps
 
 **TUPRAS - IT System Administrator (Expert) ► Active Directory ♦ Exchange ♦ LYNC ♦ System Center**
 
 I have managed Enterprise Servers, the full Microsoft infrastructure suite of products including Active Directory (2008), Exchange (2010), LCS/LYNC, SQL, System Center Family, Forefront Family, Web Servers, Terminal Services and WSUS. 
 
-    - Improved Collaboration Services with Exchange 2010 migration, Email archiving (Evault), Mail Security (Ironport) Deployments
+    ✔ Improved Collaboration Services with Exchange 2010 migration, Email archiving (Evault), Mail Security (Ironport) Deployments
 
-    - Communication was very important, migrated PBX to IPT than integrated LYNC. Internal clients were able to communicate with mobile comfort. In the end, installed video conferencing systems and clients traveling costs reduced.
+    ✔ Communication was very important, migrated PBX to IPT than integrated LYNC. Internal clients were able to communicate with mobile comfort. In the end, installed video conferencing systems and clients traveling costs reduced.
 
 
 **MIRA - IT System Administrator ► DevOps ♦ Web Servers ♦ Nagios ♦ Linux ♦ Free BSD (2007 - 2008)**
