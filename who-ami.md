@@ -10,6 +10,7 @@
 **Staff Build ► DevOps ♦ AWS ♦ Docker ♦ Jenkins ♦ CD / CI ♦ Micro Services (2017- Present)**
 
 GE is the world’s Digital Industrial Company, transforming the industry with software-defined machines and solutions that are connected, responsive and predictive.
+
 I am designing Cloud Infra for new engages. I am responsible for CD / CI management implement new technologies to cloud infrastructure. Also, I try to understand developers requirements and make them do their jobs more comfortable.
 
 ✔ Built Mesos / Marathon Micro services on AWS
@@ -23,13 +24,17 @@ I am designing Cloud Infra for new engages. I am responsible for CD / CI managem
 
 **Senior IT Architect & Security Principle,Exact NL (ERP & Accounting Cloud) (2016 -2017)**
 
-- Responsible for Operational Availability of Exact Cloud Infrastructure (35,000+ Online Clients)
+Exact build Cloud Business software for SMEs and their accountants and a global player with 300,000 customers and 1,700 employees in 14 countries.
 
-- Responsible for Technology Road Mapping, Budget Planning, Agile & Scrum Meetings
+I was part of Cloud Operations Team maintaining Exact Online making Up & Running. Managing over 20K Active Users (Running Transactions) Infrastructure on Cloud.
 
-- Managing AWS (EC2, Docker Containers, S3, VPC), Azure (Office 365,SaaS, PaaS, IaaS)
+✔ Responsible for Operational Availability of Exact Cloud Infrastructure (35,000+ Online Clients)
 
-- SOC Reports, Security Instances Response, and Compliance Acceptances
+✔ Responsible for Technology Road Mapping, Budget Planning, Agile & Scrum Meetings
+
+✔ Managing AWS (EC2, Docker Containers, S3, VPC), Azure (Office 365,SaaS, PaaS, IaaS)
+
+✔ SOC Reports, Security Instances Response, and Compliance Acceptances
 
     >Migrated EOL Infra from Rack-Space (3 Datacenters) to AWS and MS Azure
 
