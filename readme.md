@@ -11,7 +11,7 @@ Here I've created a repository for experience transfer and daily neededs. Docume
 >Usefull files for IT guys
 
 #### how-to-documents
->How to do someting, for ex: build a web server with Centos
+>How to do something, for ex: build a web server with Centos
 
 #### sec-ops
 >Security based documents
