@@ -7,7 +7,7 @@
 -------------------------------------------------------------- ------------------
 **WORK HISTORY**
 
-**Staff Build ► DevOps ♦ AWS ♦ Docker ♦ Jenkins ♦ CD / CI ♦ Micro Services (2017- Present)**
+**GE - Staff Build ► DevOps ♦ AWS ♦ Docker ♦ Jenkins ♦ CD / CI ♦ Micro Services (2017- Present)**
 
 GE is the world’s Digital Industrial Company, transforming the industry with software-defined machines and solutions that are connected, responsive and predictive.
 
@@ -22,7 +22,7 @@ I am designing Cloud Infra for new engages. I am responsible for CD / CI managem
 ✔ SDLC Integration
 
 
-**Senior IT Architect & Security Principle,Exact NL (ERP & Accounting Cloud) (2016 -2017)**
+**EXACT - Senior Information Technology Architect ► DevOps ♦ AWS ♦ Azure ♦ CD / CI (2016 -2017)**
 
 Exact build Cloud Business software for SMEs and their accountants and a global player with 300,000 customers and 1,700 employees in 14 countries.
 
@@ -41,7 +41,7 @@ I was part of Cloud Operations Team maintaining Exact Online making Up & Running
     ✔ Increased Awareness with Infra Redesign
 
 
-**IT Coordinator (Infra & Security), TUPRAS TR (Oil & Gas) (2008 - 2016)**
+**Senior ICT / OT Coordinator & Security Manager ► ICT Infrastructure ♦ ICS ♦ ERP ♦ SecOps (2008 - 2016)**
 
 TUPRAS is the Biggest Enterprise Of Turkey with 29 million tons/year capacity of crude oil processing and owns all of Turkey’s refining capacity. Regarding geographical location, its refineries are deployed adjacent to consumption areas and are best suited to meet the needs of the country.
 
@@ -72,6 +72,18 @@ Also auditing Private Cloud, Virtual Infrastructure, Storages, Windows/Linux Ser
     ✔ Completed ISO 27001 Certification and NIST 800-82 ICS Compliance
 
     ✔ Managed KOC Holding Security Commission and Created Standards for Energy Companies
+
+**IT / OT Systems Supervisor ► DevOps ♦ Virtualization ♦ Storage ♦ Information Security**
+  
+- Responsible for IT Infrastructure (Servers, Firewalls, Network Devices, Backup) with %99 SLA
+
+- Managed Active Directory, Exchange, Database Servers, SCCM & Web Servers
+
+- Supported Branch Offices Network and Production Lifecycle
+
+    >Solved Chronical Problems with Nagios & Bash Scripts, Improved Charging US\$15K per/month
+
+    >Optimized Central and Branch Sites Topology, Implemented Backup & DR Plans
 
 
 **IT System Administrator,MIRA TR (Telecom) (2007 - 2008)**
