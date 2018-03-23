@@ -13,7 +13,7 @@
  
  ✔ <a href="http://www.hackingarticles.in/penetration-testing/" target="_blank"> Hacking Articles</a>
  
- ✔ <a href="hhttp://aqicn.org/city/" target="_blank"> Air Pollution</a>
+ ✔ <a href="http://aqicn.org/city" target="_blank"> Air Pollution</a>
  
  
  
