@@ -3,7 +3,7 @@ Links:
 
 <a href="https://earth.nullschool.net/#current/wind/surface/level/orthographic=-325.28,40.87,3000/loc=30.205,39.525" target="_blank"> Wind Map</a>
 
-<a href="https://dbrand.com/" target="_blank"> Wind Map</a>
+<a href="https://dbrand.com/" target="_blank"> Apple Skills</a>
 
 
 ##
