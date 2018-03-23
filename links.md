@@ -6,7 +6,18 @@
  ✔ <a href="https://dbrand.com/" target="_blank"> Iphone Skills</a>
 
  ✔ <a href="https://letsrobot.tv/" target="_blank"> Use Robots Online</a>
-
+ 
+ ✔ <a href="https://www.draw.io/" target="_blank"> Visio Alternative</a>
+ 
+ ✔ <a href="https://www.moodica.com/collection/momentum" target="_blank"> Brain Moods</a>
+ 
+ ✔ <a href="http://www.hackingarticles.in/penetration-testing/" target="_blank"> Hacking Articles</a>
+ 
+ ✔ <a href="hhttp://aqicn.org/city/" target="_blank"> Air Pollution</a>
+ 
+ 
+ 
+ 
 
 ##
 This Document has been written By Serdar Sarioglu - 2015
