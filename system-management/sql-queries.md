@@ -19,6 +19,8 @@ How to trunk ms sql logs:
 
 >GO
 
+Second Step
+
 >USE [SampleDb];
 
 >GO
