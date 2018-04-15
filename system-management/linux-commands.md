@@ -6,6 +6,12 @@ Lets Start With Ubuntu
 
 >sudo update-rc.d open-vm-tools enable
 
+#### To Route All Traffic true SSH Connection
+
+>ssh -C -D 1080 destination_ip -p port_number -l user_name
+
+>use firefox to route web traffic to port 1080
+
 
 
 ##
