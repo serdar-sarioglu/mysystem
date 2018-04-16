@@ -1,4 +1,4 @@
-## SQL Queries
+## How to trunk a Log file & Shrink DB
 
 How to trunk ms sql logs:
 
