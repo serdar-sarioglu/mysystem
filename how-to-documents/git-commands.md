@@ -7,6 +7,9 @@
 >git config --global user.name "Alan Turing"
 >git config --global user.email turing@machines.com
 
+#### Save Login Credential
+>git config credential.helper store
+
 #### Create a new Git Repository
 >git init
 
