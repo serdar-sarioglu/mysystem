@@ -19,7 +19,7 @@ How to trunk ms sql logs:
 
 >GO
 
-Second Step:
+Second Step to Shrink:
 
 >USE [SampleDb];
 
