@@ -19,6 +19,10 @@
 #### Push to Master
 >git push origin master
 
+####  Use a Proxy 
+
+>git config --global http.proxy proxy_address
+
 
 ## 
 
