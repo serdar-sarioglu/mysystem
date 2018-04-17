@@ -15,6 +15,10 @@ apt install docker.io -y
 #### Run a Docker Image:
 >docker run --name test container_id
 
+> -dit run in background
+
+> -p 8080:80 port mappings
+
 #### Remove Docker Container
 >docker rm test
 
