@@ -34,7 +34,8 @@
     docker load -i path-to-image-tar-file
 
 #### Bonus (Copy file with SCP):
-    scp serdar@10.10.10.100:/home/mysystem/ftp-server-1 /root/images
+    scp -P 65222 -rp serdar@10.10.10.100:/home/mysystem/ftp-server-1 /root/images
+    
 
 ## 
 
