@@ -34,6 +34,13 @@
 Save as docker-compose.yml and run
 
     docker-compose up -d
+    
+#### How to install Docker Compose on Centos
+        yum install epel-release
+        yum update
+        yum -y install python-pip
+        pip install --upgrade pip
+        pip install docker-compose
 
 ## 
 
