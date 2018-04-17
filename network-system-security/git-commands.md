@@ -1,29 +1,29 @@
 ## Git Commands
 
 #### Clone a Git Repository
->git clone https://github.com/ssarioglu/mysystem.git
+    git clone https://github.com/ssarioglu/mysystem.git
 
 #### Global Login / Email
->git config --global user.name "Alan Turing"
->git config --global user.email turing@machines.com
+    git config --global user.name "Alan Turing"
+    git config --global user.email turing@machines.com
 
 #### Save Login Credential
->git config credential.helper store
+    git config credential.helper store
 
 #### Create a new Git Repository
->git init
+    git init
 
 #### Add File
->git add
+    git add
 
 #### Commit
->git commit -am "Latest"
+    git commit -am "Latest"
 
 #### Push to Master
->git push origin master
+    git push origin master
 
 ####  Use a Proxy 
->git config --global http.proxy proxy_address
+    git config --global http.proxy proxy_address
 
 
 ## 
