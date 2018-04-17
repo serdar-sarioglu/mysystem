@@ -1,7 +1,10 @@
 ## Docker Commands
 
+#### Run Docker Commands without sudo
+>sudo usermod -a -G docker ec2-user
+
 #### Install Docker to Ubuntu:
-apt install docker.io -y
+>apt install docker.io -y
 
 #### Login a custom registry:
 >docker login registry.mysystem.org
